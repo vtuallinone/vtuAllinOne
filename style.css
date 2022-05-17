@@ -241,3 +241,7 @@ header {
         margin: 0 auto;
     }
 }
+
+#adobe-dc-view{
+    height: 100vh;
+}  
