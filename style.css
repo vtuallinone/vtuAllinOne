@@ -158,7 +158,10 @@ header {
         color: #26a699;
     }
 
-    
+    .pdf-btn{
+        width: 60px;
+    }
+
 
 }
 
@@ -212,6 +215,9 @@ header {
     .navbar {
         display: block;
         padding: 5px 0 0 0;
+    }
+    .pdf-btn{
+        width: 60px;
     }
 
    
